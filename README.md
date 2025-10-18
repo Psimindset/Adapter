@@ -7,3 +7,5 @@ Description du Concept :
 Un adaptateur enveloppe un objet afin de cacher la complexité de la conversion qu’il réalise discrètement en arrière-plan.
 L’objet ainsi encapsulé ignore totalement le travail effectué par l’adaptateur.
 Par exemple, on peut envelopper un objet qui manipule des valeurs en mètres et en kilomètres à l’aide d’un adaptateur chargé de convertir automatiquement toutes les données en unités impériales telles que les pieds ou les milles. Mais le rôle des adaptateurs ne se limite pas aux simples conversions de formats, ils permettent aussi à des interfaces différentes de collaborer sans conflit.
+
+Mohammed Amine HLAL
